@@ -7,6 +7,7 @@
 
 * ***[OpenCV](https://opencv.org/)***<br/>
 * ***[MediaPipe](https://mediapipe.dev/)***<br/>
+* ***[PyCaw](https://github.com/AndreMiras/pycaw)***<br/>
 * ***[NumPy](https://numpy.org/)***<br/>
 
 ## _To Compile the Code_
